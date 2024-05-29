@@ -1,4 +1,3 @@
-# Portfolio
 # Rajkumar S - Portfolio
 
 Welcome to the repository for Rajkumar S's portfolio website. This site showcases my skills, projects, and provides a way to contact me. The portfolio is built using HTML, CSS, and Bootstrap, and includes various sections like Home, About, Projects, and Contact.
